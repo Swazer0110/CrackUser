@@ -1,0 +1,4 @@
+-Crear prioridad palabras
+-Async
+-Cambiar a modo dominio
+-Hacer opcional el rule (hashcat)
