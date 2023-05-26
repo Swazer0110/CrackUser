@@ -2,7 +2,7 @@
 CrackUser is a powerful Python tool designed to assist in generating customized wordlists for password cracking. By utilizing information provided by the user, CrackUser creates a comprehensive list of possible password combinations, with a particular focus on strings that the target person may potentially use in their passwords.
 
 
-##Key Features:
+#Key Features:
 
 ###Customized Wordlist Generation: CrackUser allows users to input specific information about the target person, such as their name, birthdate, hobbies, interests, and any other relevant details. It intelligently analyzes this information to generate a wordlist containing possible password combinations. It also incorporates the option to input a hashcat hashtable to create even more combinations of the passwords.
 
