@@ -1,4 +1,9 @@
--Crear prioridad palabras
--Async
--Cambiar a modo dominio
--Hacer opcional el rule (hashcat)
+
+-Mas modos de combinacion
+-Incorporar a Maltego
+
+es peor con asyncrono o con multiproceso
+
+Añadido banner
+Implementado multiproceso
+Control de errores y logeo
